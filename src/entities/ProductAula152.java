@@ -5,7 +5,7 @@ public class ProductAula152 {
 	private String productName;
 	private Double productPrice;
 
-	public class Product {
+	public ProductAula152() {
 
 	}
 

@@ -12,7 +12,7 @@ public class OrderAula152 {
 	private OrderStatus status;
 	
 	private ClientAula152 client;
-	private List<OrderItemAula152> orderItem = new ArrayList<>();
+	private List<OrderItemAula152> orderItem = new ArrayList<OrderItemAula152>();
 
 	public class Order {
 

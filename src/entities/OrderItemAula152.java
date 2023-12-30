@@ -6,7 +6,7 @@ public class OrderItemAula152 {
 	private Double priceItem;
 	private ProductAula152 product;
 
-	public class OrderItem {
+	public OrderItemAula152() {
 
 	}
 
